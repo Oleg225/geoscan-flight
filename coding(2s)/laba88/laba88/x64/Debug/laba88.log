@@ -1,0 +1,6 @@
+﻿  First.cpp
+  laba88.cpp
+  Second.cpp
+  Создание кода...
+laba88.obj : error LNK2005: main уже определен в First.obj
+C:\Users\User\Desktop\coding(2s)\laba88\x64\Debug\laba88.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

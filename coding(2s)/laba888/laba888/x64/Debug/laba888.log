@@ -1,0 +1,11 @@
+﻿  First.cpp
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(2,3): error C2059: синтаксическая ошибка: }
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(2,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(3,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(3,2): error C2059: синтаксическая ошибка: }
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(5,2): error C2059: синтаксическая ошибка: return
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(6,1): error C2059: синтаксическая ошибка: }
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(6,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(7,51): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(7,51): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\User\Desktop\coding(2s)\laba888\laba888\First.cpp(17,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)

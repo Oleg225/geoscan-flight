@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D68B6F1A-951E-4F82-BA0F-CD980BB6B6F0}|laba98\\laba98.vcxproj|C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D68B6F1A-951E-4F82-BA0F-CD980BB6B6F0}|laba98\\laba98.vcxproj|solutionrelative:laba98\\f3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68B6F1A-951E-4F82-BA0F-CD980BB6B6F0}|laba98\\laba98.vcxproj|C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D68B6F1A-951E-4F82-BA0F-CD980BB6B6F0}|laba98\\laba98.vcxproj|solutionrelative:laba98\\f2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68B6F1A-951E-4F82-BA0F-CD980BB6B6F0}|laba98\\laba98.vcxproj|C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D68B6F1A-951E-4F82-BA0F-CD980BB6B6F0}|laba98\\laba98.vcxproj|solutionrelative:laba98\\f1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68B6F1A-951E-4F82-BA0F-CD980BB6B6F0}|laba98\\laba98.vcxproj|C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\laba98.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D68B6F1A-951E-4F82-BA0F-CD980BB6B6F0}|laba98\\laba98.vcxproj|solutionrelative:laba98\\laba98.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "f3.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f3.txt",
+              "RelativeDocumentMoniker": "laba98\\f3.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f3.txt",
+              "RelativeToolTip": "laba98\\f3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-01T04:53:52.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "f2.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f2.txt",
+              "RelativeDocumentMoniker": "laba98\\f2.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f2.txt",
+              "RelativeToolTip": "laba98\\f2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-01T04:53:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "f1.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f1.txt",
+              "RelativeDocumentMoniker": "laba98\\f1.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\f1.txt",
+              "RelativeToolTip": "laba98\\f1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-01T04:53:04.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "laba98.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\laba98.cpp",
+              "RelativeDocumentMoniker": "laba98\\laba98.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\coding(2s)\\laba98\\laba98\\laba98.cpp",
+              "RelativeToolTip": "laba98\\laba98.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T04:52:06.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

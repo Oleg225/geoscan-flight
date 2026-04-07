@@ -1,6 +1,0 @@
-﻿  13.1.cpp
-C:\Users\User\Desktop\coding(2s)\13.1\13.1\13.1.cpp(14,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\User\Desktop\coding(2s)\13.1\13.1\13.1.cpp(27,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\User\Desktop\coding(2s)\13.1\13.1\13.1.cpp(44,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\User\Desktop\coding(2s)\13.1\13.1\13.1.cpp(146,13): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
-  13.1.vcxproj -> C:\Users\User\Desktop\coding(2s)\13.1\x64\Debug\13.1.exe
